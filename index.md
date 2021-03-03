@@ -1,7 +1,7 @@
 ## Gas Brake Go   
 ***  
 [HCR2 Reference](dadahcr2.github.io/hcr2)  
-***  
+* * *  
 ### Team event: Bail Out!
 ![](https://cdn.discordapp.com/attachments/750874271022317678/815467200374636574/image0.png)
 
@@ -121,5 +121,5 @@ If you would like to compete in [tractor](https://rentry.co/hcr2vehicles#tractor
 Note: he may unfriend you if you use another vehicle in the daily, and you will need to friend him again if you would like to re-join. 
 
 Results are reported on the [tractor](https://rentry.co/hcr2vehicles#tractor)  wars [discord](https://discord.gg/ND6avWY)  
-***    
+---    
 Anything worth adding?  dadahcr2@gmail.com or dada#1710
