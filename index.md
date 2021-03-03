@@ -1,5 +1,4 @@
-### Team event: Bail Out!
-## Team event: Bail Out!
+
 # Team event: Bail Out!
 ![](https://cdn.discordapp.com/attachments/750874271022317678/815467200374636574/image0.png)
 
@@ -20,9 +19,9 @@ videos
 - [linus 48k](https://youtu.be/fk-TQVRKD8M)
 - [vere 47k](https://youtu.be/2Vyc-oSetV4)
 
-### March public event: (Long Kick)
+# March public event: (Long Kick)
 ![](https://cdn.discordapp.com/attachments/750906124454330429/813553824345620480/image0.png)
-### Public event: Top Gear Bottom Gear (Uphill Climb)
+# Public event: Top Gear Bottom Gear (Uphill Climb)
 ![](https://pbs.twimg.com/media/Eu_VUTJXAAc5Rxg.jpg:small)
 
 **Tracks**  
@@ -39,7 +38,7 @@ Climb It - rally wing tires coin 433m
 Remove Rally Hood and Roof at start to lighten vehicle (by reversing into invisible wall)   
  ![](https://cdn.discordapp.com/attachments/638501746272108558/799221963687723038/image0.gif)
 
-### Weekly kms contest  
+# Weekly kms contest  
 **Podium**  
 🥇Jimbob  
 🥈dada   
@@ -48,7 +47,7 @@ Remove Rally Hood and Roof at start to lighten vehicle (by reversing into invisi
 **Top Ten**  
 ![](https://cdn.discordapp.com/attachments/777301191474282546/815781323167367188/image0.png)
 
-### Monthly adventure contest  
+# Monthly adventure contest  
 February: ***Moonlander on the Mountain***  
 🥇 Date 3663m  
 🥈 T 3605m  
@@ -57,7 +56,7 @@ February: ***Moonlander on the Mountain***
 March: ***HotRod on Racer Glacier***  
 ![](https://cdn.discordapp.com/attachments/776132655192211478/815951591277461524/image0.gif)
 
-### Friends
+# Friends
 
 Name | Link
 -- | --
@@ -88,7 +87,7 @@ Terd | [https://playhcr.com/invite?id=K14e32](https://playhcr.com/invite?id=K14e
 Wolf | [https://playhcr.com/invite?id=d5B5V2](https://playhcr.com/invite?id=d5B5V2)
 Zay | [https://playhcr.com/invite?id=avmvPP](https://playhcr.com/invite?id=avmvPP)
 
-### Where can I find my invite code?
+# Where can I find my invite code?
 ![Find your invite code](https://i.imgur.com/WiWRznr.jpg)
 1. Go to EVENTS tab  
 2. Click on friends square in bottom left 
@@ -99,7 +98,7 @@ Zay | [https://playhcr.com/invite?id=avmvPP](https://playhcr.com/invite?id=avmvP
 5. Six-character invite code is visible after “id=“    
 6. Post in GBG team chat for others to see
   
-### Team philosophy
+# Team philosophy
 1. **We are an active and friendly team.** There are no hard rules, but participating in all team matches and 100+km a week are good signs of activity. We try to keep it clean, be respectful, and support one another. 
 
 2. **Real life takes priority.** If you have a problem preventing you from playing, let the team know. We are extremely understanding.
@@ -112,7 +111,7 @@ Zay | [https://playhcr.com/invite?id=avmvPP](https://playhcr.com/invite?id=avmvP
 ![](https://cdn.discordapp.com/attachments/616461538978693141/739209195382898837/image0.jpg)
 
 ***  
-### Tractor wars 
+# Tractor wars 
 If you would like to compete in [tractor](https://rentry.co/hcr2vehicles#tractor) wars (unrelated to GBG), make friends with [Numpty](https://playhcr.com/invite?id=95Pyg5)  
 Note: he may unfriend you if you use another vehicle in the daily, and you will need to friend him again if you would like to re-join. 
 
