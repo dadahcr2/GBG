@@ -16,7 +16,7 @@
 5.  **Sportscar Df=1**/10 **JS LB start**/thrust,  _**Time attack**, Overtakers(It's Mine) , 10k=13.5s_
 
 videos
-- [**vokope howto**](https://youtu.be/lf1tRm8KT6U)
+- [vokope howto](https://youtu.be/lf1tRm8KT6U)
 - [ligna 44k](https://youtu.be/ZEMWWIsItsQ)
 - [vere 44k](https://youtu.be/QC5Chv1YNcM)
 - [linus 48k](https://youtu.be/fk-TQVRKD8M)
