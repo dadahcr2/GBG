@@ -1,8 +1,7 @@
-## Gas Brake Go
-***
-
-HCR2 Reference: [](dadahcr2.github.io/hcr2)
-***
+## Gas Brake Go   
+***  
+[HCR2 Reference](dadahcr2.github.io/hcr2)  
+***  
 ### Team event: Bail Out!
 ![](https://cdn.discordapp.com/attachments/750874271022317678/815467200374636574/image0.png)
 
@@ -10,9 +9,9 @@ HCR2 Reference: [](dadahcr2.github.io/hcr2)
 
 1.  **Formula tire AB coin**,  _**No air**, Kid's pool(Finger Travels), 10k=24s_
 2.  **Bus wing JS thrust2** remove people and bumpers,  _**Long jump**, 10k=240m_
-> ["The flight was pretty untidy cos I tilted to far forward at take off and ended up with too much speed. I had to tilt back to scrub speed and enable it to gain height. When the fuel was low, tilt to vertical and thrust forward"](https://cdn.discordapp.com/attachments/667836046733738080/815795280024829972/Hill_Climb_Racing_2_2021-03-01-16-51-18.mp4)
+   > ["The flight was pretty untidy cos I tilted to far forward at take off and ended up with too much speed. I had to tilt back to scrub speed and enable it to gain height. When the fuel was low, tilt to vertical and thrust forward"](https://cdn.discordapp.com/attachments/667836046733738080/815795280024829972/Hill_Climb_Racing_2_2021-03-01-16-51-18.mp4)
 3.  **Tractor d=1 wing JS LB** or **Moto wing JS LB**,  _**Multi jump**, 10k=700m_
-> [vokope tractor vs moto side-by-side](https://youtu.be/4-Jmy4ejrJI)
+   > [vokope tractor vs moto side-by-side](https://youtu.be/4-Jmy4ejrJI)
 4.  **Monster weight AB rollcage**/start, _**Breaking**, 10k=10s_
 5.  **Sportscar Df=1**/10 **JS LB start**/thrust,  _**Time attack**, Overtakers(It's Mine) , 10k=13.5s_
 
@@ -38,8 +37,9 @@ Mount Dizzy - racingtruck df=1 Wing Coin Wheelie 417m
 To the Summit - racingtruck df=1 tires wheelie wing 422m  
 King of the Hill - racingtruck df=1 tires fume wheelie 1211m  
 Climb It - rally wing tires coin 433m   
-- Remove Rally Hood and Roof at start to lighten vehicle (by reversing into invisible wall)   
-![](https://cdn.discordapp.com/attachments/638501746272108558/799221963687723038/image0.gif)
+
+Remove Rally Hood and Roof at start to lighten vehicle (by reversing into invisible wall)   
+ ![](https://cdn.discordapp.com/attachments/638501746272108558/799221963687723038/image0.gif)
 
 ### Weekly kms contest  
 **Podium**  
@@ -98,11 +98,11 @@ Zay | https://playhcr.com/invite?id=avmvPP
 2. Click on friends square in bottom left 
 3. Press + in top right
 
-![Find your invite code](https://i.imgur.com/lw0A9k3.jpg)
-4. Press “SEND LINK” button
-5. Six-character invite code is visible after “id=“
+![Find your invite code](https://i.imgur.com/lw0A9k3.jpg)  
+4. Press “SEND LINK” button    
+5. Six-character invite code is visible after “id=“    
 6. Post in GBG team chat for others to see
-
+  
 ### Team philosophy
 1. **We are an active and friendly team.** There are no hard rules, but participating in all team matches and 100+km a week are good signs of activity. We try to keep it clean, be respectful, and support one another. 
 
@@ -112,15 +112,14 @@ Zay | https://playhcr.com/invite?id=avmvPP
 
 4. **Relax and have fun!**  Rankings are secondary. (Please don't pressure anyone to perform better. If there is an issue that detracts from the positive environment, steps will be taken to address it.) 
 
-5. **Eat plenty fiber!!** 😀
- 
+5. **Eat plenty fiber!!** 😀  
 ![](https://cdn.discordapp.com/attachments/616461538978693141/739209195382898837/image0.jpg)
 
-***
+***  
 ### Tractor wars 
 If you would like to compete in [tractor](https://rentry.co/hcr2vehicles#tractor) wars (unrelated to GBG), make friends with [Numpty](https://playhcr.com/invite?id=95Pyg5)  
 Note: he may unfriend you if you use another vehicle in the daily, and you will need to friend him again if you would like to re-join. 
 
-Results are reported on the [tractor](https://rentry.co/hcr2vehicles#tractor)  wars [discord](https://discord.gg/ND6avWY)
-***
+Results are reported on the [tractor](https://rentry.co/hcr2vehicles#tractor)  wars [discord](https://discord.gg/ND6avWY)  
+***    
 Anything worth adding?  dadahcr2@gmail.com or dada#1710
