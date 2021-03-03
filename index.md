@@ -56,7 +56,7 @@ February: ***Moonlander on the Mountain***
 March: ***HotRod on Racer Glacier***  
 ![](https://cdn.discordapp.com/attachments/776132655192211478/815951591277461524/image0.gif)
 
-$# Friends
+## Friends
 
 Name | Link
 -- | --
