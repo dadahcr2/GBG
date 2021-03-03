@@ -88,7 +88,7 @@ Swan | [https://playhcr.com/invite?id=Q4rWYA](https://playhcr.com/invite?id=Q4rW
 T | [https://playhcr.com/invite?id=3YgYnj](https://playhcr.com/invite?id=3YgYnj)
 Terd | [https://playhcr.com/invite?id=K14e32](https://playhcr.com/invite?id=K14e32)
 Wolf | [https://playhcr.com/invite?id=d5B5V2](https://playhcr.com/invite?id=d5B5V2)
-Zay | [https://playhcr.com/invite?id=avmvPP](https://playhcr.com/invite?id=avmvPP)Zay | https://playhcr.com/invite?id=avmvPP
+Zay | [https://playhcr.com/invite?id=avmvPP](https://playhcr.com/invite?id=avmvPP)
 
 ### Where can I find my invite code?
 ![Find your invite code](https://i.imgur.com/WiWRznr.jpg)
