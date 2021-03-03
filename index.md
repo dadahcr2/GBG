@@ -1,7 +1,3 @@
-## Gas Brake Go   
-***  
-[HCR2 Reference](https://dadahcr2.github.io/hcr2/)  
-* * *  
 ### Team event: Bail Out!
 ![](https://cdn.discordapp.com/attachments/750874271022317678/815467200374636574/image0.png)
 
