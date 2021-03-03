@@ -58,7 +58,7 @@ February: ***Moonlander on the Mountain***
 March: ***HotRod on Racer Glacier***  
 ![](https://cdn.discordapp.com/attachments/776132655192211478/815951591277461524/image0.gif)
 
-## Friends
+# Friends
 
 Name | Link
 -- | --
@@ -100,7 +100,7 @@ Zay | [https://playhcr.com/invite?id=avmvPP](https://playhcr.com/invite?id=avmvP
 5. Six-character invite code is visible after “id=“    
 6. Post in GBG team chat for others to see
   
-## Team philosophy
+# Team philosophy
 1. **We are an active and friendly team.** There are no hard rules, but participating in all team matches and 100+km a week are good signs of activity. We try to keep it clean, be respectful, and support one another. 
 
 2. **Real life takes priority.** If you have a problem preventing you from playing, let the team know. We are extremely understanding.
