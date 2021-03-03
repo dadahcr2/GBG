@@ -1,7 +1,7 @@
-## ->Gas Brake Go<-
+## Gas Brake Go
 ***
-[TOC3]
-HCR2 Reference:   https://rentry.co/hcr2
+
+HCR2 Reference: [](dadahcr2.github.io/hcr2)
 ***
 ### Team event: Bail Out!
 ![](https://cdn.discordapp.com/attachments/750874271022317678/815467200374636574/image0.png)
@@ -10,54 +10,55 @@ HCR2 Reference:   https://rentry.co/hcr2
 
 1.  **Formula tire AB coin**,  _**No air**, Kid's pool(Finger Travels), 10k=24s_
 2.  **Bus wing JS thrust2** remove people and bumpers,  _**Long jump**, 10k=240m_
-> "The flight was pretty untidy cos I tilted to far forward at take off and ended up with too much speed. I had to tilt back to scrub speed and enable it to gain height. When the fuel was low, tilt to vertical and thrust forward"
-> https://cdn.discordapp.com/attachments/667836046733738080/815795280024829972/Hill_Climb_Racing_2_2021-03-01-16-51-18.mp4
+> ["The flight was pretty untidy cos I tilted to far forward at take off and ended up with too much speed. I had to tilt back to scrub speed and enable it to gain height. When the fuel was low, tilt to vertical and thrust forward"](https://cdn.discordapp.com/attachments/667836046733738080/815795280024829972/Hill_Climb_Racing_2_2021-03-01-16-51-18.mp4)
 3.  **Tractor d=1 wing JS LB** or **Moto wing JS LB**,  _**Multi jump**, 10k=700m_
-> vokope tractor vs moto side-by-side https://youtu.be/4-Jmy4ejrJI
+> [vokope tractor vs moto side-by-side](https://youtu.be/4-Jmy4ejrJI)
 4.  **Monster weight AB rollcage**/start, _**Breaking**, 10k=10s_
 5.  **Sportscar Df=1**/10 **JS LB start**/thrust,  _**Time attack**, Overtakers(It's Mine) , 10k=13.5s_
 
 videos
-- **vokope howto** https://youtu.be/lf1tRm8KT6U
-- ligna 44k https://youtu.be/ZEMWWIsItsQ
-- vere 44k https://youtu.be/QC5Chv1YNcM
-- linus 48k https://youtu.be/fk-TQVRKD8M
-- vere 47k https://youtu.be/2Vyc-oSetV4
+- [**vokope howto**](https://youtu.be/lf1tRm8KT6U)
+- [ligna 44k](https://youtu.be/ZEMWWIsItsQ)
+- [vere 44k](https://youtu.be/QC5Chv1YNcM)
+- [linus 48k](https://youtu.be/fk-TQVRKD8M)
+- [vere 47k](https://youtu.be/2Vyc-oSetV4)
 
 ### March public event: (Long Kick)
 ![](https://cdn.discordapp.com/attachments/750906124454330429/813553824345620480/image0.png)
 ### Public event: Top Gear Bottom Gear (Uphill Climb)
 ![](https://pbs.twimg.com/media/Eu_VUTJXAAc5Rxg.jpg:small)
 
-**Tracks**
-	Up’n’Up - racingtruck df=1 tires wing wheelie 492m 
-Sky’s the Limit - racingtruck df=1 tires wing wheelie 488m 
-Top of the World - racingtruck racingtruck df=1 tires wing wheelie 503m 
-Over the Top -  tank wheelie wing fume 463m 
-Up, Up and Away - racingtruck df=1 fume coin wheelie 624m
-Mount Dizzy - racingtruck df=1 Wing Coin Wheelie 417m
-To the Summit - racingtruck df=1 tires wheelie wing 422m
-King of the Hill - racingtruck df=1 tires fume wheelie 1211m
-Climb It - rally wing tires coin 433m 
-- Remove Rally Hood and Roof at start to lighten vehicle (by reversing into invisible wall) 
+**Tracks**  
+Up’n’Up - racingtruck df=1 tires wing wheelie 492m   
+Sky’s the Limit - racingtruck df=1 tires wing wheelie 488m   
+Top of the World - racingtruck racingtruck df=1 tires wing wheelie 503m   
+Over the Top -  tank wheelie wing fume 463m   
+Up, Up and Away - racingtruck df=1 fume coin wheelie 624m  
+Mount Dizzy - racingtruck df=1 Wing Coin Wheelie 417m  
+To the Summit - racingtruck df=1 tires wheelie wing 422m  
+King of the Hill - racingtruck df=1 tires fume wheelie 1211m  
+Climb It - rally wing tires coin 433m   
+- Remove Rally Hood and Roof at start to lighten vehicle (by reversing into invisible wall)   
 ![](https://cdn.discordapp.com/attachments/638501746272108558/799221963687723038/image0.gif)
-### Weekly kms contest
-**Podium**
-🥇Jimbob
-🥈dada 
+
+### Weekly kms contest  
+**Podium**  
+🥇Jimbob  
+🥈dada   
 🥉Camaro
 
-**Top Ten**
+**Top Ten**  
 ![](https://cdn.discordapp.com/attachments/777301191474282546/815781323167367188/image0.png)
 
-### Monthly adventure contest
-February: ***Moonlander on the Mountain***
-🥇 Date 3663m
-🥈 T 3605m
+### Monthly adventure contest  
+February: ***Moonlander on the Mountain***  
+🥇 Date 3663m  
+🥈 T 3605m  
 🥉 12+ Players 3575m
 
-March: ***HotRod on Racer Glacier***
+March: ***HotRod on Racer Glacier***  
 ![](https://cdn.discordapp.com/attachments/776132655192211478/815951591277461524/image0.gif)
+
 ### Friends
 
 Name | Link
@@ -93,7 +94,7 @@ Zay | https://playhcr.com/invite?id=avmvPP
 
 ### Where can I find my invite code?
 ![Find your invite code](https://i.imgur.com/WiWRznr.jpg)
-1.  Go to EVENTS tab  
+1. Go to EVENTS tab  
 2. Click on friends square in bottom left 
 3. Press + in top right
 
@@ -113,12 +114,13 @@ Zay | https://playhcr.com/invite?id=avmvPP
 
 5. **Eat plenty fiber!!** 😀
  
-	![](https://cdn.discordapp.com/attachments/616461538978693141/739209195382898837/image0.jpg)
+![](https://cdn.discordapp.com/attachments/616461538978693141/739209195382898837/image0.jpg)
 
 ***
 ### Tractor wars 
-If you would like to compete in [tractor](https://rentry.co/hcr2vehicles#tractor) wars (unrelated to GBG), make friends with Numpty: https://playhcr.com/invite?id=95Pyg5
+If you would like to compete in [tractor](https://rentry.co/hcr2vehicles#tractor) wars (unrelated to GBG), make friends with [Numpty](https://playhcr.com/invite?id=95Pyg5)  
 Note: he may unfriend you if you use another vehicle in the daily, and you will need to friend him again if you would like to re-join. 
 
-Results are reported on the [tractor](https://rentry.co/hcr2vehicles#tractor)  wars discord server: https://discord.gg/ND6avWY
+Results are reported on the [tractor](https://rentry.co/hcr2vehicles#tractor)  wars [discord](https://discord.gg/ND6avWY)
 ***
+Anything worth adding?  dadahcr2@gmail.com or dada#1710
