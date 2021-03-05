@@ -1,6 +1,5 @@
 # GAS BRAKE GO 
-{.no_toc}  
-***  
+----  
 
 1. TOC
 {:toc}
