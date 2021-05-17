@@ -11,7 +11,8 @@ www.hcr2.info | [Friends](http://friends.hcr2.info) | [Checklist](http://hcr2.in
 13 May - T1 AB video - next te preview  
 12 May - New PE - Coleader season join contest  
 11 May - Team Season Bonus Table  
-### Team event: The Last Neckbender
+### Events
+#### Team event: The Last Neckbender
 ![](https://media.discordapp.net/attachments/750874271022317678/842788778799923230/image0.jpg?width=500&height=402)
 
 ***bus buggy rally racingtruck moonlander***
@@ -31,7 +32,7 @@ videos
 - vokope 40k https://youtu.be/HXHkfxOQAVU
 - cis 40k https://youtu.be/RGHkHxgmZoI
 
-### Public Event: Dark side of the hill (Moon Jump)
+#### Public Event: Dark side of the hill (Moon Jump)
 ![](https://pbs.twimg.com/media/E1LeN02X0AAHE1G.jpg:small)
 
 Bus Thrusters Wing Magnet/JumpShocks
@@ -47,7 +48,7 @@ Tracks: **Moon Jump 1-6**
 i think this is the same: https://youtu.be/xmqNlIk3gtQ
 6. bus JS thrusters magnet 632m
 
-### Leagues
+#### Leagues
 ![](https://cdn.discordapp.com/attachments/836014761102934036/836014820355473418/teams_VS.png)
 - Eight divisions with an incentive to be in the top division - Top 100, 500, 2000, 4000, 8000, 16000, 32000, rest
 - Will have a monthly "season", with resetting at the end of the month
@@ -71,7 +72,7 @@ i think this is the same: https://youtu.be/xmqNlIk3gtQ
 
 ![](https://cdn.discordapp.com/attachments/616461538978693141/835147547797487637/image0.png)
 
-### **Season Rewards**
+#### **Season Rewards**
 ![](https://cdn.discordapp.com/attachments/617353655468687390/841897325411827723/IMG_4050.jpg)
 
 **Season Bonus Chest** - requires premium pass
@@ -84,7 +85,8 @@ Level | Km | Coins =5000+500xLevel | Gems =10+Level | Common | Rare | Epic | Leg
 30-199 | 79-248 | 20000-104500 | 40-209 |  (68~90) |  (9~18) |  (6~9) | 10% (3)
 200 | 249+ | 105000 | 210 |  (68~90) |  (9~18) |  (6~9) | 10% (3)
 
-### Weekly Kms Contest
+### Contests
+#### Weekly Kms Contest
 **Top 5**  
 🥇Getzata  
 🥈Stand09  
@@ -95,7 +97,7 @@ Level | Km | Coins =5000+500xLevel | Gems =10+Level | Common | Rare | Epic | Leg
 **Top Ten**  
 ![](https://cdn.discordapp.com/attachments/777301191474282546/843721025446346772/image0.png)
 
-### Daily Time Trial Contest
+#### Daily Time Trial Contest
 Rules:
 - Compete each day in same daily as fw.hcr2.info
 - Points added up over the week: 🥇=3, 🥈=2, 🥉=1
@@ -128,12 +130,12 @@ Doc                 1
 
 ![](https://cdn.discordapp.com/attachments/776132655192211478/835513068074303528/image0.png)
 
-### Coleader Season Contest
+#### Coleader Season Contest
 **#Joins in May**
 2 Getzata  
 1 Spyder  
 1 Groot  
-### Adventure Contest
+#### Adventure Contest
 Adventure - May until mid-month: ***Scooter in Countryside***  
 🥇Date 4071m    
 🥈Lonestar 3923m  
