@@ -1,5 +1,5 @@
  ->[![Gas Brake Go](https://cdn.discordapp.com/attachments/806343355264401478/820076457690398751/GBG-team-logo-125.png)](#_1)<-  
-->hcr2.info | [Friends](http://friends.hcr2.info) | [Checklist](http://hcr2.info/#daily-checklist)  | [Wiki](http://wiki.hcr2.info)  | [FAQ](http://faq.hcr2.info) | [Tips](http://tips.hcr2.info)<-
+->hcr2.info | [Friends](http://friends.hcr2.info) | [Checklist](http://hcr2.info/#daily-checklist)  | [Wiki](http://wiki.hcr2.info)  | [FAQ](http://faq.hcr2.info) | [Tips](http://tips.hcr2.info)<-  
 ->[FS Memes](http://memes.hcr2.info) | [FS News](https://fingersoft.com/news/) | [FS Tweets](https://mobile.twitter.com/HCR_Official_) |  [YouTube](https://www.youtube.com/results?search_query=hill+climb+racing+2+hcr2)<-
 ***
 [TOC3]
@@ -83,14 +83,14 @@ i think this is the same: https://youtu.be/xmqNlIk3gtQ
 ->30→200<- | ->79→249<- | ->20000→105000<- | ->40→210<- | ->(68~90)<- | ->(9~18)<- | ->(6~9)<- | ->10% (0~3)<-
 
 ### Weekly Kms Contest
-**Top 5**
-🥇Getzata
-🥈Stand09
-🥉dada
-🏅Omelette
-🎖Chicken
+**Top 5**  
+🥇Getzata  
+🥈Stand09  
+🥉dada  
+🏅Omelette  
+🎖Chicken  
 
-**Top Ten**
+**Top Ten**  
 ![](https://cdn.discordapp.com/attachments/777301191474282546/843721025446346772/image0.png)
 
 ### Daily Time Trial Contest
@@ -98,18 +98,16 @@ Rules:
 - Compete each day in same daily as fw.hcr2.info
 - Points added up over the week: 🥇=3, 🥈=2, 🥉=1
 
-**Week 5 Results**
-🥇 Dada 2+2+3+3+3+3+2=18
-🥈 Getzata 3+3+2+1+2+2+1=14
-🥉 Date 1+1+2+1+1+3=9
-🏅 Doc 1
+**Week 5 Results**  
+🥇 Dada 2+2+3+3+3+3+2=18  
+🥈 Getzata 3+3+2+1+2+2+1=14  
+🥉 Date 1+1+2+1+1+3=9  
+🏅 Doc 1  
 
-**2021 Time Trial Roll of Honor**
+**2021 Time Trial Roll of Honor**  
 ```
          🥇   🥈   🥉
 ——————————————————————
-```
-```
 Dada      4    1 
 Date      1    1    2   
 Getzata        3
@@ -130,16 +128,16 @@ Doc                 1
 
 ### Coleader Season Contest
 **#Joins in May**
-2 Getzata
-1 Spyder
-1 Groot
+2 Getzata  
+1 Spyder  
+1 Groot  
 ### Adventure Contest
-Adventure - May until mid-month: ***Scooter in Countryside***
-🥇Date 4071m,
-🥈Lonestar 3923m
-🥉JB 3738m
+Adventure - May until mid-month: ***Scooter in Countryside***  
+🥇Date 4071m    
+🥈Lonestar 3923m  
+🥉JB 3738m  
 
-**2021 Adventure Roll of Honor**
+**2021 Adventure Roll of Honor**  
 ```
             🥇   🥈   
 ————————————————————
@@ -151,10 +149,10 @@ Nesorac      1
 Lonestar          2
 Spyder            1
 ```
-Until May month-end: ***Snowmobile-Rustbucket Reef***
-![](https://cdn.discordapp.com/attachments/776132655192211478/843620725738569758/image0.gif)
+Until May month-end: ***Snowmobile-Rustbucket Reef***  
+![](https://cdn.discordapp.com/attachments/776132655192211478/843620725738569758/image0.gif)  
 ### Adventure Setups
-Draft base on VMinchBosch data - **work-in-progress do not distribute!**
+Draft base on VMinchBosch data - **work-in-progress do not distribute!**  
 ![](https://cdn.discordapp.com/attachments/806343355264401478/842843192398446622/image0.png)
 ### Track Tips
 Track | Tip
@@ -214,6 +212,7 @@ Track | Tip
 	 ![](https://cdn.discordapp.com/attachments/616461538978693141/739209195382898837/image0.jpg)
 
 ![](https://media.discordapp.net/attachments/833681748688633877/835658598969245722/image8.jpg?width=748&height=991)
+
 ***
 
  -> dadahcr2@gmail.com | dada#1710 | [Leave a comment](https://rentry.co/gcom1) <-
