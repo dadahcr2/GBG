@@ -130,7 +130,7 @@ Doc                 1
 ![](https://cdn.discordapp.com/attachments/776132655192211478/835513068074303528/image0.png)
 
 ### Coleader Season Contest
-**#Joins in May**
+**Joins in May**  
 2 Getzata  
 1 Spyder  
 1 Groot  
