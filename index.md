@@ -1,5 +1,12 @@
 
-[Checklist](http://hcr2.info/#daily-checklist)  | [Wiki](http://wiki.hcr2.info)  | [FAQ](http://faq.hcr2.info) | [Tips](http://tips.hcr2.info) | [Memes](http://memes.hcr2.info) | [News](https://fingersoft.com/news/) | [Tweets](https://mobile.twitter.com/HCR_Official_) |  [YouTube](https://www.youtube.com/results?search_query=hill+climb+racing+2+hcr2)
+[Checklist](http://hcr2.info/#daily-checklist)  - [Wiki](http://wiki.hcr2.info) - [FAQ](http://faq.hcr2.info) - [Tips](http://tips.hcr2.info)
+ [Memes](http://memes.hcr2.info) - [News](https://fingersoft.com/news/) - [Tweets](https://mobile.twitter.com/HCR_Official_) - [YouTube](https://www.youtube.com/results?search_query=hill+climb+racing+2+hcr2)  
+{: style="text-align: center;"}
+
+***
+
+* TOC
+{:toc}
 
 ***
 
