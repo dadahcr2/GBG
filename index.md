@@ -157,10 +157,11 @@ Spyder            1
 ```
 Until May month-end: ***Snowmobile-Rustbucket Reef***  
 ![](https://cdn.discordapp.com/attachments/776132655192211478/843620725738569758/image0.gif)  
-## Adventure Setups
+## Advice
+### Adventure Setups
 Draft base on VMinchBosch data - **work-in-progress do not distribute!**  
 ![](https://cdn.discordapp.com/attachments/806343355264401478/842843192398446622/image0.png)
-## Track Tips
+### Track Tips
 
  Track | Tip 
  -- | --   
@@ -175,7 +176,7 @@ Draft base on VMinchBosch data - **work-in-progress do not distribute!**
 **Watery Tunnel** (Cup of City Water 2) | Generally quicker to brake and go low route through the water  
 
 
-## General HCR2 Advice
+### General HCR2 Advice
 1. Be respectful and friendly to others
 2. Finish the weekly public event
 3. Finish the monthly 50k season
