@@ -6,7 +6,10 @@ www.hcr2.info | [Friends](http://friends.hcr2.info) | [Checklist](http://hcr2.in
 
 ***
 
+* TOC
 {:toc}
+
+[[_TOC_]]
 
 ***
 
