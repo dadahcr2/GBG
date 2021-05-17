@@ -1,6 +1,5 @@
-
-[Checklist](http://hcr2.info/#daily-checklist)  - [Wiki](http://wiki.hcr2.info) - [FAQ](http://faq.hcr2.info) - [Tips](http://tips.hcr2.info)  
- [Memes](http://memes.hcr2.info) - [News](https://fingersoft.com/news/) - [Tweets](https://mobile.twitter.com/HCR_Official_) - [YouTube](https://www.youtube.com/results?search_query=hill+climb+racing+2+hcr2)  
+www.hcr2.info | [Friends](http://friends.hcr2.info) | [Checklist](http://hcr2.info/#daily-checklist)  | [Wiki](http://wiki.hcr2.info)  | [FAQ](http://faq.hcr2.info) | [Tips](http://tips.hcr2.info)  
+[FS Memes](http://memes.hcr2.info) | [FS News](https://fingersoft.com/news/) | [FS Tweets](https://mobile.twitter.com/HCR_Official_) |  [YouTube](https://www.youtube.com/results?search_query=hill+climb+racing+2+hcr2)  
 {: style="text-align: center;"}
 
 ***
@@ -162,17 +161,18 @@ Until May month-end: ***Snowmobile-Rustbucket Reef***
 Draft base on VMinchBosch data - **work-in-progress do not distribute!**  
 ![](https://cdn.discordapp.com/attachments/806343355264401478/842843192398446622/image0.png)
 ### Track Tips
-Track | Tip
--- | --
-**The Carousel** (Bill's Circuit 2) | Do a backflip at high point in cave e.g. with rally
-**Flying Log** (Forest Cup 3) | Wait five seconds to reposition fuel
-**Forgotten Highway** | High roads are generally quicker if you can make them
-**Frostfire Caverns** | Go under the second mountain i.e.down into the cavern
-**Lonely Camper** (Boggy Road 3) | Generally smoother to go the low route at 320m to go (near the start)
-**Muddy Road** (Boggy Road 1) | Often quicker to break through the board at 200m to go, and go down
-0**Snappy Swamps** (Alligator Cup 2) | ⚠ alligators at 50m to go. Fly over and wheelie; or go under carefully if you fit
-**Tunnel Vision** (Tunnels 1) | Go down the tunnel at 280m to go. It is a shortcut
-**Watery Tunnel** (Cup of City Water 2) | Generally quicker to brake and go low route through the water
+
+ Track | Tip 
+ -- | --   
+**The Carousel** (Bill's Circuit 2) | Do a backflip at high point in cave e.g. with rally  
+**Flying Log** (Forest Cup 3) | Wait five seconds to reposition fuel  
+**Forgotten Highway** | High roads are generally quicker if you can make them  
+**Frostfire Caverns** | Go under the second mountain i.e.down into the cavern  
+**Lonely Camper** (Boggy Road 3) | Generally smoother to go the low route at 320m to go (near the start)  
+**Muddy Road** (Boggy Road 1) | Often quicker to break through the board at 200m to go, and go down  
+0**Snappy Swamps** (Alligator Cup 2) | ⚠ alligators at 50m to go. Fly over and wheelie; or go under carefully if you fit  
+**Tunnel Vision** (Tunnels 1) | Go down the tunnel at 280m to go. It is a shortcut  
+**Watery Tunnel** (Cup of City Water 2) | Generally quicker to brake and go low route through the water  
 
 
 ### General HCR2 Advice
@@ -222,6 +222,6 @@ Track | Tip
 
 ***
 
-dadahcr2@gmail.com | dada#1710 | [Leave a comment](https://rentry.co/gcom1) 
+dadahcr2@gmail.com | dada#1710 | [Leave a comment](https://rentry.co/gcom1)   
 [![Gas Brake Go](https://cdn.discordapp.com/attachments/806343355264401478/820076457690398751/GBG-team-logo-125.png)]()  
 {: style="text-align: center;"}
