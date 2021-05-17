@@ -1,11 +1,11 @@
 
-[Checklist](http://hcr2.info/#daily-checklist)  - [Wiki](http://wiki.hcr2.info) - [FAQ](http://faq.hcr2.info) - [Tips](http://tips.hcr2.info)
+[Checklist](http://hcr2.info/#daily-checklist)  - [Wiki](http://wiki.hcr2.info) - [FAQ](http://faq.hcr2.info) - [Tips](http://tips.hcr2.info)  
  [Memes](http://memes.hcr2.info) - [News](https://fingersoft.com/news/) - [Tweets](https://mobile.twitter.com/HCR_Official_) - [YouTube](https://www.youtube.com/results?search_query=hill+climb+racing+2+hcr2)  
 {: style="text-align: center;"}
 
 ***
 
-* TOC
+1. TOC  
 {:toc}
 
 ***
@@ -77,7 +77,7 @@ i think this is the same: https://youtu.be/xmqNlIk3gtQ
 
 ![](https://cdn.discordapp.com/attachments/616461538978693141/835147547797487637/image0.png)
 
-### **Season Rewards**
+### Season Rewards
 ![](https://cdn.discordapp.com/attachments/617353655468687390/841897325411827723/IMG_4050.jpg)
 
 **Season Bonus Chest** - requires premium pass
@@ -170,7 +170,7 @@ Track | Tip
 **Frostfire Caverns** | Go under the second mountain i.e.down into the cavern
 **Lonely Camper** (Boggy Road 3) | Generally smoother to go the low route at 320m to go (near the start)
 **Muddy Road** (Boggy Road 1) | Often quicker to break through the board at 200m to go, and go down
-**Snappy Swamps** (Alligator Cup 2) | ⚠ alligators at 50m to go. Fly over and wheelie; or go under carefully if you fit
+0**Snappy Swamps** (Alligator Cup 2) | ⚠ alligators at 50m to go. Fly over and wheelie; or go under carefully if you fit
 **Tunnel Vision** (Tunnels 1) | Go down the tunnel at 280m to go. It is a shortcut
 **Watery Tunnel** (Cup of City Water 2) | Generally quicker to brake and go low route through the water
 
@@ -223,4 +223,5 @@ Track | Tip
 ***
 
 dadahcr2@gmail.com | dada#1710 | [Leave a comment](https://rentry.co/gcom1) 
-## [![Gas Brake Go](https://cdn.discordapp.com/attachments/806343355264401478/820076457690398751/GBG-team-logo-125.png)]()
+[![Gas Brake Go](https://cdn.discordapp.com/attachments/806343355264401478/820076457690398751/GBG-team-logo-125.png)]()  
+{: style="text-align: center;"}
