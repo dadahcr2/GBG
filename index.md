@@ -1,4 +1,4 @@
-www.hcr2.info - [Friends](http://friends.hcr2.info) - [Checklist](http://hcr2.info/#daily-checklist)  - [Wiki](http://wiki.hcr2.info)  - [FAQ](http://faq.hcr2.info) - [Tips](http://tips.hcr2.info)  
+[hcr2.info](http://hcr2.info) - [Friends](http://friends.hcr2.info) - [Checklist](http://hcr2.info/#daily-checklist)  - [Wiki](http://wiki.hcr2.info)  - [FAQ](http://faq.hcr2.info) - [Tips](http://tips.hcr2.info)  
 [FS Memes](http://memes.hcr2.info) - [FS News](https://fingersoft.com/news/) - [FS Tweets](https://mobile.twitter.com/HCR_Official_) -  [YouTube](https://www.youtube.com/results?search_query=hill+climb+racing+2+hcr2)  
 {: style="text-align: center;"}
 
@@ -15,7 +15,7 @@ www.hcr2.info - [Friends](http://friends.hcr2.info) - [Checklist](http://hcr2.in
 13 May - T1 AB video - next te preview  
 12 May - New PE - Coleader season join contest  
 11 May - Team Season Bonus Table  
-### Events
+## Events
 ### Team event: The Last Neckbender
 ![](https://media.discordapp.net/attachments/750874271022317678/842788778799923230/image0.jpg?width=500&height=402)
 
@@ -89,7 +89,7 @@ Level | Km | Coins =5000+500xLevel | Gems =10+Level | Common | Rare | Epic | Leg
 30-199 | 79-248 | 20000-104500 | 40-209 |  (68~90) |  (9~18) |  (6~9) | 10% (3)
 200 | 249+ | 105000 | 210 |  (68~90) |  (9~18) |  (6~9) | 10% (3)
 
-### Contests
+## Contests
 ### Weekly Kms Contest
 **Top 5**  
 🥇Getzata  
@@ -157,10 +157,10 @@ Spyder            1
 ```
 Until May month-end: ***Snowmobile-Rustbucket Reef***  
 ![](https://cdn.discordapp.com/attachments/776132655192211478/843620725738569758/image0.gif)  
-### Adventure Setups
+## Adventure Setups
 Draft base on VMinchBosch data - **work-in-progress do not distribute!**  
 ![](https://cdn.discordapp.com/attachments/806343355264401478/842843192398446622/image0.png)
-### Track Tips
+## Track Tips
 
  Track | Tip 
  -- | --   
@@ -175,7 +175,7 @@ Draft base on VMinchBosch data - **work-in-progress do not distribute!**
 **Watery Tunnel** (Cup of City Water 2) | Generally quicker to brake and go low route through the water  
 
 
-### General HCR2 Advice
+## General HCR2 Advice
 1. Be respectful and friendly to others
 2. Finish the weekly public event
 3. Finish the monthly 50k season
@@ -202,11 +202,11 @@ Draft base on VMinchBosch data - **work-in-progress do not distribute!**
 3. Scrap parts that may be needed in the future
 4. Use the scrapyard if tired or impaired
 
-### Tournaments
+## Tournaments
 - Tractor Wars: tw.hcr2.info
 - Friendly Wars: fw.hcr2.info
 
-### Team Philosophy
+## Team Philosophy
 1. **We are an active and friendly team.** There are no hard rules, but participating in all team matches and 100+km a week are good signs of activity. We try to keep it clean, be respectful, and support one another. 
 
 2. **Real life takes priority.** If you have a problem preventing you from playing, let the team know. We are extremely understanding.
@@ -222,6 +222,6 @@ Draft base on VMinchBosch data - **work-in-progress do not distribute!**
 
 ***
 
-dadahcr2@gmail.com | dada#1710 | [Leave a comment](https://rentry.co/gcom1)   
+[email](mailto:dadahcr2@gmail.com) | dada#1710 | [Leave a comment](https://rentry.co/gcom1)   
 [![Gas Brake Go](https://cdn.discordapp.com/attachments/806343355264401478/820076457690398751/GBG-team-logo-125.png)]()  
 {: style="text-align: center;"}
