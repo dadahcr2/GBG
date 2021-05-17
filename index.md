@@ -9,6 +9,7 @@
 
 ***
 
+17 May - 1.11 T2
 16 May - Adventure contest - T2 video - cis 40k - weekly km contest  
 15 May - vokope howto & 40k - weekly time trial results  
 14 May - new TE    
@@ -24,17 +25,19 @@
 > it's better to take your time here and go slower.  turn air control down to 10
 2. **rally wing fuel AB**/LB, first 2km of moon adventure -buggy magnet/wing/coin/fuel or bus?
 > [route](https://youtu.be/MBXqU8YgdVU)
+> [1.11](https://youtu.be/SYSYhQ0bzi8)
 3. **bus wings thrust** JS, target jump - or moonlander?
 > [9.5k]( https://youtu.be/ViML0hA56Go)
 4. **buggy rc=1 wing land JS**, beach adventure distance- racingtruck df=1 wing fume coin or buggy kangaroo?
 
 videos
-- [TD 33k] https://youtu.be/bsiDO4YFy_s
+- [TD 33k](https://youtu.be/bsiDO4YFy_s)
 - [vere 37k (2nd run)](  https://youtu.be/o4bDTU7RMYI)
 - [zorro 37k]( https://youtu.be/Cbmzx3LXl4U)
-- [vokope howto] (https://www.youtube.com/watch?v=p9VJHiptOeQ)
+- [vokope howto](https://www.youtube.com/watch?v=p9VJHiptOeQ)
 - [vokope 40k]( https://youtu.be/HXHkfxOQAVU)
-- [cis 40k] (https://youtu.be/RGHkHxgmZoI)
+- [cis 40k](https://youtu.be/RGHkHxgmZoI)
+- 
 
 ### Public Event: Dark side of the hill (Moon Jump)
 ![](https://pbs.twimg.com/media/E1LeN02X0AAHE1G.jpg:small)
