@@ -1,9 +1,15 @@
- ->[![Gas Brake Go](https://cdn.discordapp.com/attachments/806343355264401478/820076457690398751/GBG-team-logo-125.png)](#_1)<-  
-->hcr2.info | [Friends](http://friends.hcr2.info) | [Checklist](http://hcr2.info/#daily-checklist)  | [Wiki](http://wiki.hcr2.info)  | [FAQ](http://faq.hcr2.info) | [Tips](http://tips.hcr2.info)<-  
-->[FS Memes](http://memes.hcr2.info) | [FS News](https://fingersoft.com/news/) | [FS Tweets](https://mobile.twitter.com/HCR_Official_) |  [YouTube](https://www.youtube.com/results?search_query=hill+climb+racing+2+hcr2)<-
+<p align="center"> 
+[![Gas Brake Go](https://cdn.discordapp.com/attachments/806343355264401478/820076457690398751/GBG-team-logo-125.png)](#_1)  
+hcr2.info | [Friends](http://friends.hcr2.info) | [Checklist](http://hcr2.info/#daily-checklist)  | [Wiki](http://wiki.hcr2.info)  | [FAQ](http://faq.hcr2.info) | [Tips](http://tips.hcr2.info)  
+[FS Memes](http://memes.hcr2.info) | [FS News](https://fingersoft.com/news/) | [FS Tweets](https://mobile.twitter.com/HCR_Official_) |  [YouTube](https://www.youtube.com/results?search_query=hill+climb+racing+2+hcr2)
+</p>
+
 ***
-[TOC3]
+
+[[TOC3]]
+
 ***
+
 16 May - Adventure contest - T2 video - cis 40k - weekly km contest  
 15 May - vokope howto & 40k - weekly time trial results  
 14 May - new TE    
@@ -76,7 +82,7 @@ i think this is the same: https://youtu.be/xmqNlIk3gtQ
 **Season Bonus Chest** - requires premium pass
 
 ->Level<- | ->Km<- | ->Coins =5000+500xLevel<- | ->Gems =10+Level<- | ->Common<- | ->Rare<- | ->Epic<- | ->Legendary<-
--- | -- | -- | -- | -- | -- | -- | --
+:--: | :--: | :--: | :--: | :--: | :--: | :--: | :--:
 ->1→9<- | ->50→58<- | ->5500→9500<- | ->11→19<- | ->(18~27)<- | ->(2~6)<- | ->2% (0~3)<- | ->0.1% (0~3)<-
 ->10→19<- | ->59→68<- | ->10000→14500<- | ->20→29<- | ->(29~38)<- | ->(2~10)<- | ->13% (0~6)<- | ->1.8% (0~3)<-
 ->20→29<- | ->69→78<- | ->15000→19500<- | ->30→39<- | ->(45~56)<- | ->(6~12)<- | ->33% (0~6)<- | ->5% (0~3)<-
