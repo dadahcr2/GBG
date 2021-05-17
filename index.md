@@ -4,12 +4,12 @@
 ***
 [TOC3]
 ***
-16 May - Adventure contest - T2 video - cis 40k - weekly km contest
-15 May - vokope howto & 40k - weekly time trial results
-14 May - new TE
-13 May - T1 AB video - next te preview
-12 May - New PE - Coleader season join contest
-11 May - Team Season Bonus Table
+16 May - Adventure contest - T2 video - cis 40k - weekly km contest  
+15 May - vokope howto & 40k - weekly time trial results  
+14 May - new TE    
+13 May - T1 AB video - next te preview  
+12 May - New PE - Coleader season join contest  
+11 May - Team Season Bonus Table  
 ### Team event: The Last Neckbender
 ![](https://media.discordapp.net/attachments/750874271022317678/842788778799923230/image0.jpg?width=500&height=402)
 
