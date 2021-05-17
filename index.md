@@ -1,12 +1,12 @@
-<p align="center"> 
+ 
 [![Gas Brake Go](https://cdn.discordapp.com/attachments/806343355264401478/820076457690398751/GBG-team-logo-125.png)](#_1)  
 hcr2.info | [Friends](http://friends.hcr2.info) | [Checklist](http://hcr2.info/#daily-checklist)  | [Wiki](http://wiki.hcr2.info)  | [FAQ](http://faq.hcr2.info) | [Tips](http://tips.hcr2.info)  
 [FS Memes](http://memes.hcr2.info) | [FS News](https://fingersoft.com/news/) | [FS Tweets](https://mobile.twitter.com/HCR_Official_) |  [YouTube](https://www.youtube.com/results?search_query=hill+climb+racing+2+hcr2)
-</p>
+
 
 ***
 
-[[TOC]]
+{:toc}
 
 ***
 
