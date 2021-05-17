@@ -150,9 +150,7 @@ Adventure - May until mid-month: ***Scooter in Countryside***
 **2021 Adventure Roll of Honor**  
 ```
             🥇   🥈   
-————————————————————
-```
-```
+————————————————————  
 Date         3        
 T            1    2
 Nesorac      1
