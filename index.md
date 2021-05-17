@@ -221,5 +221,5 @@ Track | Tip
 
 ***
 
- -> dadahcr2@gmail.com | dada#1710 | [Leave a comment](https://rentry.co/gcom1) <-
-## ->[![Gas Brake Go](https://cdn.discordapp.com/attachments/806343355264401478/820076457690398751/GBG-team-logo-125.png)]()<-
+dadahcr2@gmail.com | dada#1710 | [Leave a comment](https://rentry.co/gcom1) 
+## [![Gas Brake Go](https://cdn.discordapp.com/attachments/806343355264401478/820076457690398751/GBG-team-logo-125.png)]()
