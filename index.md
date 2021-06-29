@@ -2,6 +2,9 @@
 [FS Memes](http://memes.hcr2.info) - [FS News](https://fingersoft.com/news/) - [FS Tweets](https://mobile.twitter.com/HCR_Official_) -  [YouTube](https://www.youtube.com/results?search_query=hill+climb+racing+2+hcr2)  
 {: style="text-align: center;"}
 
+# This site is no longer being updated. Please ask for the new address in the online chat
+
+
 ***
 
 1. TOC  
